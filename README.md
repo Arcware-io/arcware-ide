@@ -1,2 +1,2 @@
-# arcware-ide
+# Arcware-ide
 Arcware-IDE
