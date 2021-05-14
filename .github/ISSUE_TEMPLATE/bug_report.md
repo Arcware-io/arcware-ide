@@ -18,15 +18,15 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+ - A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+ - If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - IDE [e.g. chrome, safari]
- - Version [e.g. 22]
+**Development environment (please complete the following information):**
+ - OS: [e.g. Windows 10]
+ - JDK: [e.g. Adopt OpenJDK 11]
+ - IDE: [e.g. Eclipse 2021-03]
 
 **Additional context**
-Add any other context about the problem here.
+ - Add any other context about the problem here.
