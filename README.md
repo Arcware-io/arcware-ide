@@ -1,5 +1,5 @@
 # Welcome to the Arcware IDE Project Update Site
 
 
-	[https://arcware-io.github.io/arcware-ide/]("Link to the update site") 
+[Link to the update site](https://arcware-io.github.io/arcware-ide/) 
 
